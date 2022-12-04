@@ -25,6 +25,11 @@ public class Jobs extends baseclass {
 		return jobsname;
 		  
 	}
+	public void ssamplefuntion()
+	{
+		int sample;
+		  
+	}
 	
 
 }
